@@ -150,15 +150,15 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                         [
                             InlineKeyboardButton(
                                 text=gs(chat.id, "support_chat_link_btn"),
-                                url='https://t.me/YorktownEagleUnion',
+                                url='https://t.me/nohax_support',
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "updates_channel_link_btn"),
-                                url="https://t.me/KigyoUpdates",
+                                url="https://t.me/RevenUpdates",
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "src_btn"),
-                                url="https://github.com/Dank-del/EnterpriseALRobot",
+                                url="https://github.com/flashokillerify/Noha_X",
                             ),
                         ],
                         [
@@ -218,15 +218,15 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                         [
                             InlineKeyboardButton(
                                 text=gs(chat.id, "support_chat_link_btn"),
-                                url='https://t.me/YorktownEagleUnion',
+                                url='https://t.me/Nohax_support',
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "updates_channel_link_btn"),
-                                url="https://t.me/KigyoUpdates",
+                                url="https://t.me/RevenUpdates",
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "src_btn"),
-                                url="https://github.com/Dank-del/EnterpriseALRobot",
+                                url="https://github.com/flashokillerify/Noha_X",
                             ),
                         ],
                         [
